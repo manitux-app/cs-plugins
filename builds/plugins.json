@@ -1,4 +1,25 @@
-[
+﻿[
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.nl&sz=%size%",
+        "fileHash": "sha256-3f619463414a41e2c9936d6d392bc85792e9a38f6344e495fb59e730f188a356",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/manitux-app/cs-plugins",
+        "fileSize": 40263,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "manitux-app"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "HDFilmCehennemi",
+        "description": "T\u00fcrkiye'nin en h\u0131zl\u0131 hd film izleme sitesi",
+        "url": "https://raw.githubusercontent.com/manitux-app/cs-plugins/main/builds/HDFilmCehennemi.cs3",
+        "name": "HDFilmCehennemi"
+    },
     {
         "fileHash": "sha256-c827d461614634b7f8cae9611a6f62d6f95b0ac2850aad374fd9dba255c1aac1",
         "apiVersion": 1,
@@ -14,7 +35,7 @@
         ],
         "version": 1,
         "internalName": "SamplePlugin",
-        "description": "Örnek eklenti. Kurulum yapmayın!",
+        "description": "Cloudstream eklenti geli\u015ftirme altyap\u0131s\u0131n\u0131 g\u00f6steren \u00f6rnek sa\u011flay\u0131c\u0131",
         "url": "https://raw.githubusercontent.com/manitux-app/cs-plugins/main/builds/SamplePlugin.cs3",
         "name": "SamplePlugin"
     }
