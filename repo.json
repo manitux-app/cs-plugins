@@ -1,0 +1,8 @@
+{
+  "name": "Manitux Cloudstream Plugins",
+  "description": "Cloudstream için Manitux eklenti deposu",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/manitux-app/cs-plugins/main/builds/plugins.json"
+  ]
+}
