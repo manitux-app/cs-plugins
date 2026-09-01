@@ -1,10 +1,10 @@
-﻿[
+[
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.nl&sz=%size%",
-        "fileHash": "sha256-3f619463414a41e2c9936d6d392bc85792e9a38f6344e495fb59e730f188a356",
+        "fileHash": "sha256-b92c6b809effdce96c39b41cc07ea1b1800498a3490216bbd1a9ae4a1ff55d7d",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/manitux-app/cs-plugins",
-        "fileSize": 40263,
+        "fileSize": 40596,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -14,9 +14,9 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 1,
+        "version": 3,
         "internalName": "HDFilmCehennemi",
-        "description": "T\u00fcrkiye'nin en h\u0131zl\u0131 hd film izleme sitesi",
+        "description": "T\u00fcrkiye'nin en h\u0131zl\u0131 HD film izleme sitesi",
         "url": "https://raw.githubusercontent.com/manitux-app/cs-plugins/main/builds/HDFilmCehennemi.cs3",
         "name": "HDFilmCehennemi"
     },
