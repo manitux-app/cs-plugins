@@ -1,10 +1,10 @@
 [
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.nl&sz=%size%",
-        "fileHash": "sha256-899774814496ebb62c9ede2e03193b13d0d04729a9d7409c61f8b6a82d66771f",
+        "fileHash": "sha256-b8190ac26eae4f69696ab7120415ebf5f3635fec85dc96642f7cb9923afcd88d",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/manitux-app/cs-plugins",
-        "fileSize": 45434,
+        "fileSize": 45958,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -14,7 +14,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 7,
+        "version": 9,
         "internalName": "HDFilmCehennemi",
         "description": "HD film ve dizi i\u00e7erikleri; TMDB destekli vitrin ve kategori raflar\u0131",
         "url": "https://raw.githubusercontent.com/manitux-app/cs-plugins/main/builds/HDFilmCehennemi.cs3",
