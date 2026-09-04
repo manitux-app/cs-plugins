@@ -15,7 +15,7 @@ Projeyi faydalı bularak ve beğenerek kullanıyorsanız uzun ömürlü olması 
 
 Bu bildirimle, bu uzantıların internetten video dosyaları çekerek standart bir web tarayıcısına benzer şekilde çalıştığını açıklığa kavuşturuyoruz.
 
-- **Bu depoda veya Kodi uygulamasında hiçbir içerik barındırılmamaktadır.**
+- **Bu depoda veya Cloudstream uygulamasında hiçbir içerik barındırılmamaktadır.**
 - Erişilen tüm içerikler üçüncü taraf web siteleri tarafından barındırılmaktadır.
 
 - Kullanıcılar kullanımlarından tamamen kendileri sorumludur ve yerel yasalarına uymak zorundadır.
