@@ -1,10 +1,10 @@
 ﻿[
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.live&sz=%size%",
-        "fileHash": "sha256-42b9386789a26f3d6083f601d88c77269b22c1a113b94c55acad606cd1f028c3",
+        "fileHash": "sha256-df466f2759fd4f48841f756056d5276f5d5748a777ab9301a2152782f0376458",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/manitux-app/cs-plugins",
-        "fileSize": 55732,
+        "fileSize": 61760,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -13,7 +13,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 4,
+        "version": 5,
         "internalName": "DiziBox",
         "description": "Yabanc\u0131 Dizi izle, T\u00fcm yabanc\u0131 dizilerin yeni ve eski sezonlar\u0131n\u0131 full hd izleyebilece\u011finiz elit site.",
         "url": "https://raw.githubusercontent.com/manitux-app/cs-plugins/main/builds/DiziBox.cs3",
@@ -21,10 +21,10 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.to&sz=%size%",
-        "fileHash": "sha256-6c103cf5895ad1009b7678e370da7ba4f8dd7083dff12d6350bd13f138c8e17f",
+        "fileHash": "sha256-258855cf1953e64e630282ca07cda11330078903dfa86cef59f8caf8fb601d1c",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/manitux-app/cs-plugins",
-        "fileSize": 54552,
+        "fileSize": 60761,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -34,7 +34,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 8,
+        "version": 9,
         "internalName": "FilmMakinesi",
         "description": "FilMakinesi olarak, kaliteli ve \u00f6zenle yapt\u0131\u011f\u0131m\u0131z \u00e7eviriler ba\u015fta olmak \u00fczere film ve dizileri h\u0131zl\u0131 bir \u015fekilde sizlere ula\u015ft\u0131r\u0131yoruz.",
         "url": "https://raw.githubusercontent.com/manitux-app/cs-plugins/main/builds/FilmMakinesi.cs3",
@@ -42,10 +42,10 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.nl&sz=%size%",
-        "fileHash": "sha256-5f4604935baec5cef3b8627eb76db175c7872aef8ec7194558d28a11d6734dec",
+        "fileHash": "sha256-f99ed7ed3b006fcb4b17fc0262a1b85f280a23f399f9bb6fd556ea5fdb08a050",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/manitux-app/cs-plugins",
-        "fileSize": 74155,
+        "fileSize": 80283,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -55,7 +55,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 21,
+        "version": 22,
         "internalName": "HDFilmCehennemi",
         "description": "Hdfilmcehennemi - T\u00fcrkiye'nin en h\u0131zl\u0131 hd film izleme sitesi. Tek ve ger\u00e7ek hdfilmcehennemi sitesi.",
         "url": "https://raw.githubusercontent.com/manitux-app/cs-plugins/main/builds/HDFilmCehennemi.cs3",
