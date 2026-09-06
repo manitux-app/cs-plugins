@@ -80,5 +80,25 @@
         "description":  "Diziyou arşivindeki kült ve güncel yabancı dizileri, yerli yapımları 1080p HD izle. Türkçe dublaj, Türkçe ve İngilizce altyazılı olarak izlemeye başla!",
         "url":  "https://raw.githubusercontent.com/manitux-app/cs-plugins/main/builds/DiziYou.cs3",
         "name":  "DiziYou"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=fullhdfilmizlesene.now\u0026sz=%size%",
+        "fileHash":  "sha256-33da9e2177eab9654445f41f7001ba955fe24872f5b003bb9f56a4fede125dc9",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/manitux-app/cs-plugins",
+        "fileSize":  71516,
+        "status":  3,
+        "language":  "tr",
+        "authors":  [
+                        "manitux"
+                    ],
+        "tvTypes":  [
+                        "Movie"
+                    ],
+        "version":  6,
+        "internalName":  "FullHDFilmizlesene",
+        "description":  "Fullhdfilmizlesene, güncel yabancı filmler ve yerli Türk yapımlarını tek platformda sunan, Türkiye\u0027nin en popüler ve geniş film arşivine sahip film izleme sitesidir.",
+        "url":  "https://raw.githubusercontent.com/manitux-app/cs-plugins/main/builds/FullHDFilmizlesene.cs3",
+        "name":  "FullHDFilmizlesene"
     }
 ]
