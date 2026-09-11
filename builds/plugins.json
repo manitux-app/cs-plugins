@@ -1,10 +1,10 @@
 [
     {
         "iconUrl":  "https://www.google.com/s2/favicons?domain=www.dizibox.live\u0026sz=%size%",
-        "fileHash":  "sha256-9b396c9821a66a9d77d06a9f3b9479d78d7b0595e75f90bc6e2673d4e85ac497",
+        "fileHash":  "sha256-beb1d11511e482e823506d81ab4d081e5ffc7d7b7ee0e539f475d3950291a6b8",
         "apiVersion":  1,
         "repositoryUrl":  "https://github.com/manitux-app/cs-plugins",
-        "fileSize":  63365,
+        "fileSize":  70840,
         "status":  1,
         "language":  "tr",
         "authors":  [
@@ -13,7 +13,7 @@
         "tvTypes":  [
                         "TvSeries"
                     ],
-        "version":  8,
+        "version":  9,
         "internalName":  "DiziBox",
         "description":  "Yabancı Dizi izle, Tüm yabancı dizilerin yeni ve eski sezonlarını full hd izleyebileceğiniz elit site.",
         "url":  "https://raw.githubusercontent.com/manitux-app/cs-plugins/main/builds/DiziBox.cs3",
@@ -21,10 +21,10 @@
     },
     {
         "iconUrl":  "https://www.google.com/s2/favicons?domain=dizilla.now\u0026sz=%size%",
-        "fileHash":  "sha256-14ea05f2f5737d7c32116fc4226b1c4bee752a53efd9a196bf5fcabae5d797e9",
+        "fileHash":  "sha256-50e263616df604e8c22199fcb91b4bf2e58d3fe3a5d7303931e99f0faeb425a5",
         "apiVersion":  1,
         "repositoryUrl":  "https://github.com/manitux-app/cs-plugins",
-        "fileSize":  75298,
+        "fileSize":  82858,
         "status":  3,
         "language":  "tr",
         "authors":  [
@@ -33,18 +33,39 @@
         "tvTypes":  [
                         "TvSeries"
                     ],
-        "version":  10,
+        "version":  11,
         "internalName":  "Dizilla",
         "description":  "yabancı dizi izle ! dizilla ile en iyi yabancı diziler , yabancı dizi izle önerileri , yabancı dizi izle aksiyon ve fazlası",
         "url":  "https://raw.githubusercontent.com/manitux-app/cs-plugins/main/builds/Dizilla.cs3",
         "name":  "Dizilla"
     },
     {
-        "iconUrl":  "https://www.google.com/s2/favicons?domain=www.diziyou.one\u0026sz=%size%",
-        "fileHash":  "sha256-e2ee0581ca3ad7761fd39b43b4317455d059f84112d0f16b53da2367627e8a74",
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=dizipal2130.com\u0026sz=%size%",
+        "fileHash":  "sha256-96a294a2e59991309f58ca3dcab7bed3cc5e3a22aa4035baba08e439f6043d4d",
         "apiVersion":  1,
         "repositoryUrl":  "https://github.com/manitux-app/cs-plugins",
-        "fileSize":  56072,
+        "fileSize":  80993,
+        "status":  3,
+        "language":  "tr",
+        "authors":  [
+                        "manitux"
+                    ],
+        "tvTypes":  [
+                        "TvSeries",
+                        "Movie"
+                    ],
+        "version":  2,
+        "internalName":  "Dizipal",
+        "description":  "Dizipal\u0027de en yeni yabancı dizi, film ve anime yapımlarını keşfedin. Türkçe altyazılı ve dublajlı, Full HD kalitede yüzlerce güncel bölümü reklamsız ve ücretsiz online izleyebilirsiniz.",
+        "url":  "https://raw.githubusercontent.com/manitux-app/cs-plugins/main/builds/Dizipal.cs3",
+        "name":  "Dizipal"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=www.diziyou.one\u0026sz=%size%",
+        "fileHash":  "sha256-6c4505dab61940066b47e213dd71c2ad347f9c562dc26cd434d42046bfa6720f",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/manitux-app/cs-plugins",
+        "fileSize":  63672,
         "status":  1,
         "language":  "tr",
         "authors":  [
@@ -53,7 +74,7 @@
         "tvTypes":  [
                         "TvSeries"
                     ],
-        "version":  5,
+        "version":  6,
         "internalName":  "DiziYou",
         "description":  "Diziyou arşivindeki kült ve güncel yabancı dizileri, yerli yapımları 1080p HD izle. Türkçe dublaj, Türkçe ve İngilizce altyazılı olarak izlemeye başla!",
         "url":  "https://raw.githubusercontent.com/manitux-app/cs-plugins/main/builds/DiziYou.cs3",
@@ -61,10 +82,10 @@
     },
     {
         "iconUrl":  "https://www.google.com/s2/favicons?domain=filmmakinesi.to\u0026sz=%size%",
-        "fileHash":  "sha256-f061fbb0a8fe5296165e4dd401f1b5fb79c46a22af931604dc6e769e4e44941a",
+        "fileHash":  "sha256-f906381e3dc1bf20a86d89feaf8c3668bedfa5fc231d181f4b9b4c4eaae0b7cf",
         "apiVersion":  1,
         "repositoryUrl":  "https://github.com/manitux-app/cs-plugins",
-        "fileSize":  62472,
+        "fileSize":  79019,
         "status":  1,
         "language":  "tr",
         "authors":  [
@@ -74,7 +95,7 @@
                         "Movie",
                         "TvSeries"
                     ],
-        "version":  12,
+        "version":  13,
         "internalName":  "FilmMakinesi",
         "description":  "FilMakinesi olarak, kaliteli ve özenle yaptığımız çeviriler başta olmak üzere film ve dizileri hızlı bir şekilde sizlere ulaştırıyoruz.",
         "url":  "https://raw.githubusercontent.com/manitux-app/cs-plugins/main/builds/FilmMakinesi.cs3",
@@ -82,10 +103,10 @@
     },
     {
         "iconUrl":  "https://www.google.com/s2/favicons?domain=fullhdfilmizlesene.now\u0026sz=%size%",
-        "fileHash":  "sha256-5a777474558be7884bec3f55d0f0f738e7cb19a30a302023dd474a43571561ff",
+        "fileHash":  "sha256-82f721d9eadc73ec7536b9b50ca925a0fbce7addcc8db938d0ce44bfd00a959a",
         "apiVersion":  1,
         "repositoryUrl":  "https://github.com/manitux-app/cs-plugins",
-        "fileSize":  73235,
+        "fileSize":  80975,
         "status":  3,
         "language":  "tr",
         "authors":  [
@@ -94,7 +115,7 @@
         "tvTypes":  [
                         "Movie"
                     ],
-        "version":  9,
+        "version":  10,
         "internalName":  "FullHDFilmizlesene",
         "description":  "Fullhdfilmizlesene, güncel yabancı filmler ve yerli Türk yapımlarını tek platformda sunan, Türkiye\u0027nin en popüler ve geniş film arşivine sahip film izleme sitesidir.",
         "url":  "https://raw.githubusercontent.com/manitux-app/cs-plugins/main/builds/FullHDFilmizlesene.cs3",
@@ -102,10 +123,10 @@
     },
     {
         "iconUrl":  "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.nl\u0026sz=%size%",
-        "fileHash":  "sha256-0d54a4dd2c68fdefae39e8425c4c90902aabb0506647bf65c0b4c345c884e9e8",
+        "fileHash":  "sha256-28c3917673ba967a53486d0f790f898a9145a0affd4536a9f26d112719f15c9a",
         "apiVersion":  1,
         "repositoryUrl":  "https://github.com/manitux-app/cs-plugins",
-        "fileSize":  81989,
+        "fileSize":  89523,
         "status":  1,
         "language":  "tr",
         "authors":  [
@@ -115,7 +136,7 @@
                         "Movie",
                         "TvSeries"
                     ],
-        "version":  25,
+        "version":  26,
         "internalName":  "HDFilmCehennemi",
         "description":  "Hdfilmcehennemi - Türkiye\u0027nin en hızlı hd film izleme sitesi. Tek ve gerçek hdfilmcehennemi sitesi.",
         "url":  "https://raw.githubusercontent.com/manitux-app/cs-plugins/main/builds/HDFilmCehennemi.cs3",
@@ -123,10 +144,10 @@
     },
     {
         "iconUrl":  "https://www.google.com/s2/favicons?domain=www.setfilmizle.ltd\u0026sz=%size%",
-        "fileHash":  "sha256-5343bf1c0a5db32acda294b7b93bdc3b719a426362827de62f5c417e5b49cafb",
+        "fileHash":  "sha256-ec6751e169cfd433e4ac019e077660a0a87b231b90182ced2471dc83b317a908",
         "apiVersion":  1,
         "repositoryUrl":  "https://github.com/manitux-app/cs-plugins",
-        "fileSize":  71713,
+        "fileSize":  79959,
         "status":  3,
         "language":  "tr",
         "authors":  [
@@ -136,7 +157,7 @@
                         "Movie",
                         "TvSeries"
                     ],
-        "version":  2,
+        "version":  3,
         "internalName":  "SetFilm",
         "description":  "Setfilmizle ile en yeni filmleri ve yabancı dizileri 1080p Full HD kalitesinde, Türkçe dublaj veya altyazılı seçenekleriyle donmadan izleyin. Üyelik gerektirmeden, kesintisiz film keyfi sizi bekliyor.",
         "url":  "https://raw.githubusercontent.com/manitux-app/cs-plugins/main/builds/SetFilm.cs3",
