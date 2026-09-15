@@ -205,5 +205,25 @@
         "description":  "Selcukflix\u0027te her türden en yeni ve en popüler dizi ve filmleri izlemenin keyfini çıkarın. Aksiyondan romantiğe, bilim kurgudan dramaya, geniş kütüphanemizde herkes için bir şey var.",
         "url":  "https://raw.githubusercontent.com/manitux-app/cs-plugins/main/builds/SelcukFlix.cs3",
         "name":  "SelcukFlix"
+    },
+    {
+        "iconUrl":  "https://yesilcamtv.com.tr/wp-content/themes/filmplus/fav.ico",
+        "fileHash":  "sha256-46f9271bafbc93bc24cef9f8fb964d810f392d1930ac21acf35a00161543e0f9",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/manitux-app/cs-plugins",
+        "fileSize":  70750,
+        "status":  3,
+        "language":  "tr",
+        "authors":  [
+                        "manitux"
+                    ],
+        "tvTypes":  [
+                        "Movie"
+                    ],
+        "version":  2,
+        "internalName":  "YesilcamTV",
+        "description":  "YESILCAM TV",
+        "url":  "https://raw.githubusercontent.com/manitux-app/cs-plugins/main/builds/YesilcamTV.cs3",
+        "name":  "YesilcamTV"
     }
 ]
