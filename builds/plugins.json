@@ -184,5 +184,26 @@
         "description":  "Kore dizisi izle, çin dizisi izle, japon dizisi izle, kore dizileri izle, kore filmleri, asya dizileri, çin filmleri, japon filmleri, bl dizi izle, asya dizisi izle, web drama izle.",
         "url":  "https://raw.githubusercontent.com/manitux-app/cs-plugins/main/builds/WebDramaTurkey.cs3",
         "name":  "WebDramaTurkey"
+    },
+    {
+        "iconUrl":  "https://selcukflix.com/assets/favicon/favicon-32x32.png?v=4",
+        "fileHash":  "sha256-e20451ca62d1df263176d7db01420c8eca27421459fbd098e4ba726d7eea03fc",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/manitux-app/cs-plugins",
+        "fileSize":  92226,
+        "status":  3,
+        "language":  "tr",
+        "authors":  [
+                        "manitux"
+                    ],
+        "tvTypes":  [
+                        "Movie",
+                        "TvSeries"
+                    ],
+        "version":  2,
+        "internalName":  "SelcukFlix",
+        "description":  "Selcukflix\u0027te her türden en yeni ve en popüler dizi ve filmleri izlemenin keyfini çıkarın. Aksiyondan romantiğe, bilim kurgudan dramaya, geniş kütüphanemizde herkes için bir şey var.",
+        "url":  "https://raw.githubusercontent.com/manitux-app/cs-plugins/main/builds/SelcukFlix.cs3",
+        "name":  "SelcukFlix"
     }
 ]
