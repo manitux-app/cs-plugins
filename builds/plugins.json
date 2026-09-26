@@ -40,27 +40,6 @@
         "name":  "Dizilla"
     },
     {
-        "iconUrl":  "https://www.google.com/s2/favicons?domain=dizipal2130.com\u0026sz=%size%",
-        "fileHash":  "sha256-e8d10f5f34266931e8802b3b80e5a2a068647a91e60fbdd8a3de9df6192f9654",
-        "apiVersion":  1,
-        "repositoryUrl":  "https://github.com/manitux-app/cs-plugins",
-        "fileSize":  64487,
-        "status":  3,
-        "language":  "tr",
-        "authors":  [
-                        "manitux"
-                    ],
-        "tvTypes":  [
-                        "TvSeries",
-                        "Movie"
-                    ],
-        "version":  3,
-        "internalName":  "Dizipal",
-        "description":  "Dizipal\u0027de en yeni yabancı dizi, film ve anime yapımlarını keşfedin. Türkçe altyazılı ve dublajlı, Full HD kalitede yüzlerce güncel bölümü reklamsız ve ücretsiz online izleyebilirsiniz.",
-        "url":  "https://raw.githubusercontent.com/manitux-app/cs-plugins/main/builds/Dizipal.cs3",
-        "name":  "Dizipal"
-    },
-    {
         "iconUrl":  "https://www.google.com/s2/favicons?domain=www.diziyou.one\u0026sz=%size%",
         "fileHash":  "sha256-422fa4ccab9bef8b0b4d02a474da6a8c625e842d9b0db8453ae61b247c079983",
         "apiVersion":  1,
@@ -225,5 +204,26 @@
         "description":  "YESILCAM TV",
         "url":  "https://raw.githubusercontent.com/manitux-app/cs-plugins/main/builds/YesilcamTV.cs3",
         "name":  "YesilcamTV"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=dizipal2130.com\u0026sz=%size%",
+        "fileHash":  "sha256-984a7ead2c7162fa667760e42f7431916f57f95574d4c2fdef48377d9d1cf7fb",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/manitux-app/cs-plugins",
+        "fileSize":  64428,
+        "status":  3,
+        "language":  "tr",
+        "authors":  [
+                        "manitux"
+                    ],
+        "tvTypes":  [
+                        "TvSeries",
+                        "Movie"
+                    ],
+        "version":  4,
+        "internalName":  "Dizipal",
+        "description":  "Dizipal\u0027de en yeni yabancı dizi, film ve anime yapımlarını keşfedin. Türkçe altyazılı ve dublajlı, Full HD kalitede yüzlerce güncel bölümü reklamsız ve ücretsiz online izleyebilirsiniz.",
+        "url":  "https://raw.githubusercontent.com/manitux-app/cs-plugins/main/builds/Dizipal.cs3",
+        "name":  "Dizipal"
     }
 ]
