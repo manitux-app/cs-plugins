@@ -207,10 +207,10 @@
     },
     {
         "iconUrl":  "https://www.google.com/s2/favicons?domain=dizipal2130.com\u0026sz=%size%",
-        "fileHash":  "sha256-19524ce7e0c721c44e150a1a2cd8f9b342b65dc9542301a189d1e6d5469c51de",
+        "fileHash":  "sha256-aa9b0540041caff1d2586cf80041abe3cb36d5305076225d4892892a7314031b",
         "apiVersion":  1,
         "repositoryUrl":  "https://github.com/manitux-app/cs-plugins",
-        "fileSize":  71192,
+        "fileSize":  71040,
         "status":  3,
         "language":  "tr",
         "authors":  [
@@ -220,7 +220,7 @@
                         "TvSeries",
                         "Movie"
                     ],
-        "version":  9,
+        "version":  11,
         "internalName":  "Dizipal",
         "description":  "Dizipal\u0027de en yeni yabancı dizi, film ve anime yapımlarını keşfedin. Türkçe altyazılı ve dublajlı, Full HD kalitede yüzlerce güncel bölümü reklamsız ve ücretsiz online izleyebilirsiniz.",
         "url":  "https://raw.githubusercontent.com/manitux-app/cs-plugins/main/builds/Dizipal.cs3",
