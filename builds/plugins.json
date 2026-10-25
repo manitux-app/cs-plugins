@@ -208,10 +208,10 @@
     },
     {
         "iconUrl":  "https://www.google.com/s2/favicons?domain=dizilla.now\u0026sz=%size%",
-        "fileHash":  "sha256-363fdb68ddfd6c6ea443229412af8606d76233371b26a1375a3848464fb96269",
+        "fileHash":  "sha256-5973cd6b7d6e9a5bb05c173f2f6b57d02e355f565237b75537577693c3c2d4ea",
         "apiVersion":  1,
         "repositoryUrl":  "https://github.com/manitux-app/cs-plugins",
-        "fileSize":  68513,
+        "fileSize":  68552,
         "status":  3,
         "language":  "tr",
         "authors":  [
@@ -220,7 +220,7 @@
         "tvTypes":  [
                         "TvSeries"
                     ],
-        "version":  16,
+        "version":  17,
         "internalName":  "Dizilla",
         "description":  "yabancı dizi izle ! dizilla ile en iyi yabancı diziler , yabancı dizi izle önerileri , yabancı dizi izle aksiyon ve fazlası",
         "url":  "https://raw.githubusercontent.com/manitux-app/cs-plugins/main/builds/Dizilla.cs3",
