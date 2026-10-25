@@ -1,10 +1,10 @@
 [
     {
         "iconUrl":  "https://www.google.com/s2/favicons?domain=www.dizibox.live\u0026sz=%size%",
-        "fileHash":  "sha256-1c672f6102c472837d13efa3005129da4646f6293ea5d81aaa2734b531a098d4",
+        "fileHash":  "sha256-404bb83d56aa121923c898c2e1aa8575c6997f29fedcd79e536c610fd49102df",
         "apiVersion":  1,
         "repositoryUrl":  "https://github.com/manitux-app/cs-plugins",
-        "fileSize":  47739,
+        "fileSize":  58561,
         "status":  1,
         "language":  "tr",
         "authors":  [
@@ -13,7 +13,7 @@
         "tvTypes":  [
                         "TvSeries"
                     ],
-        "version":  10,
+        "version":  11,
         "internalName":  "DiziBox",
         "description":  "Yabancı Dizi izle, Tüm yabancı dizilerin yeni ve eski sezonlarını full hd izleyebileceğiniz elit site.",
         "url":  "https://raw.githubusercontent.com/manitux-app/cs-plugins/main/builds/DiziBox.cs3",
@@ -21,10 +21,10 @@
     },
     {
         "iconUrl":  "https://www.google.com/s2/favicons?domain=dizilla.now\u0026sz=%size%",
-        "fileHash":  "sha256-b80d5e2776db66302dcbbc7a4478aef666700cb96803ed4fa061dac7565fcff6",
+        "fileHash":  "sha256-e25a9b0b2776b13b92bcb0aee847f30fb6c7480fcfa0e4a9c6a8d22aa50bd546",
         "apiVersion":  1,
         "repositoryUrl":  "https://github.com/manitux-app/cs-plugins",
-        "fileSize":  58641,
+        "fileSize":  64784,
         "status":  3,
         "language":  "tr",
         "authors":  [
@@ -33,15 +33,36 @@
         "tvTypes":  [
                         "TvSeries"
                     ],
-        "version":  12,
+        "version":  13,
         "internalName":  "Dizilla",
         "description":  "yabancı dizi izle ! dizilla ile en iyi yabancı diziler , yabancı dizi izle önerileri , yabancı dizi izle aksiyon ve fazlası",
         "url":  "https://raw.githubusercontent.com/manitux-app/cs-plugins/main/builds/Dizilla.cs3",
         "name":  "Dizilla"
     },
     {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=dizipal2130.com\u0026sz=%size%",
+        "fileHash":  "sha256-1ab4c398c51ae0b3167b88176ebbe7c92277057a5da6f65c26ea3a1926bfa19c",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/manitux-app/cs-plugins",
+        "fileSize":  71213,
+        "status":  3,
+        "language":  "tr",
+        "authors":  [
+                        "manitux"
+                    ],
+        "tvTypes":  [
+                        "TvSeries",
+                        "Movie"
+                    ],
+        "version":  7,
+        "internalName":  "Dizipal",
+        "description":  "Dizipal\u0027de en yeni yabancı dizi, film ve anime yapımlarını keşfedin. Türkçe altyazılı ve dublajlı, Full HD kalitede yüzlerce güncel bölümü reklamsız ve ücretsiz online izleyebilirsiniz.",
+        "url":  "https://raw.githubusercontent.com/manitux-app/cs-plugins/main/builds/Dizipal.cs3",
+        "name":  "Dizipal"
+    },
+    {
         "iconUrl":  "https://www.google.com/s2/favicons?domain=www.diziyou.one\u0026sz=%size%",
-        "fileHash":  "sha256-422fa4ccab9bef8b0b4d02a474da6a8c625e842d9b0db8453ae61b247c079983",
+        "fileHash":  "sha256-270a60d9d3f79adb3acb0d47543e82378704c35a6419a4e778a02787300b5b73",
         "apiVersion":  1,
         "repositoryUrl":  "https://github.com/manitux-app/cs-plugins",
         "fileSize":  39174,
@@ -53,7 +74,7 @@
         "tvTypes":  [
                         "TvSeries"
                     ],
-        "version":  7,
+        "version":  8,
         "internalName":  "DiziYou",
         "description":  "Diziyou arşivindeki kült ve güncel yabancı dizileri, yerli yapımları 1080p HD izle. Türkçe dublaj, Türkçe ve İngilizce altyazılı olarak izlemeye başla!",
         "url":  "https://raw.githubusercontent.com/manitux-app/cs-plugins/main/builds/DiziYou.cs3",
@@ -61,10 +82,10 @@
     },
     {
         "iconUrl":  "https://www.google.com/s2/favicons?domain=filmmakinesi.to\u0026sz=%size%",
-        "fileHash":  "sha256-b2a7cb37e11c3c27f810d02d90800dd727b1baf4374785e64b701af215800399",
+        "fileHash":  "sha256-35b7e3616897df825fed060c60a9faf2a08c818e80632beba0e00806ed8581a6",
         "apiVersion":  1,
         "repositoryUrl":  "https://github.com/manitux-app/cs-plugins",
-        "fileSize":  59734,
+        "fileSize":  60582,
         "status":  1,
         "language":  "tr",
         "authors":  [
@@ -74,7 +95,7 @@
                         "Movie",
                         "TvSeries"
                     ],
-        "version":  14,
+        "version":  15,
         "internalName":  "FilmMakinesi",
         "description":  "FilMakinesi olarak, kaliteli ve özenle yaptığımız çeviriler başta olmak üzere film ve dizileri hızlı bir şekilde sizlere ulaştırıyoruz.",
         "url":  "https://raw.githubusercontent.com/manitux-app/cs-plugins/main/builds/FilmMakinesi.cs3",
@@ -82,10 +103,10 @@
     },
     {
         "iconUrl":  "https://www.google.com/s2/favicons?domain=fullhdfilmizlesene.now\u0026sz=%size%",
-        "fileHash":  "sha256-bcba580a8e75ed0f85c2f1cfcaf7fef08bfd5e806c54f2a27c45cc729566e2f5",
+        "fileHash":  "sha256-2a2981aa646079d1b54ca896b2bf48d8addcbc80a1c0207891f8d7cf32c9d168",
         "apiVersion":  1,
         "repositoryUrl":  "https://github.com/manitux-app/cs-plugins",
-        "fileSize":  57140,
+        "fileSize":  57278,
         "status":  3,
         "language":  "tr",
         "authors":  [
@@ -94,7 +115,7 @@
         "tvTypes":  [
                         "Movie"
                     ],
-        "version":  11,
+        "version":  12,
         "internalName":  "FullHDFilmizlesene",
         "description":  "Fullhdfilmizlesene, güncel yabancı filmler ve yerli Türk yapımlarını tek platformda sunan, Türkiye\u0027nin en popüler ve geniş film arşivine sahip film izleme sitesidir.",
         "url":  "https://raw.githubusercontent.com/manitux-app/cs-plugins/main/builds/FullHDFilmizlesene.cs3",
@@ -102,10 +123,10 @@
     },
     {
         "iconUrl":  "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.nl\u0026sz=%size%",
-        "fileHash":  "sha256-743ab88f0dd7bb7cb1ab11b67e9ebfd032bdf3fab81559ca6f992d9124a1ea57",
+        "fileHash":  "sha256-1b717030b52b903c7dea079c6aaa82f319eb6d0d9f3920df91b38002666d9942",
         "apiVersion":  1,
         "repositoryUrl":  "https://github.com/manitux-app/cs-plugins",
-        "fileSize":  71572,
+        "fileSize":  71538,
         "status":  1,
         "language":  "tr",
         "authors":  [
@@ -115,7 +136,7 @@
                         "Movie",
                         "TvSeries"
                     ],
-        "version":  27,
+        "version":  28,
         "internalName":  "HDFilmCehennemi",
         "description":  "Hdfilmcehennemi - Türkiye\u0027nin en hızlı hd film izleme sitesi. Tek ve gerçek hdfilmcehennemi sitesi.",
         "url":  "https://raw.githubusercontent.com/manitux-app/cs-plugins/main/builds/HDFilmCehennemi.cs3",
@@ -123,31 +144,10 @@
     },
     {
         "iconUrl":  "https://selcukflix.com/assets/favicon/favicon-32x32.png?v=4",
-        "fileHash":  "sha256-69f998271f349624c2fdf301f1bdd7e7dd3ee12ed9842420753ffeca9fe69eea",
+        "fileHash":  "sha256-7e091c7ad9818215be10c3d8378702eb7b11115eadd3dfbd9386f9d9e5dd0bd0",
         "apiVersion":  1,
         "repositoryUrl":  "https://github.com/manitux-app/cs-plugins",
-        "fileSize":  68649,
-        "status":  3,
-        "language":  "tr",
-        "authors":  [
-                        "manitux"
-                    ],
-        "tvTypes":  [
-                        "Movie",
-                        "TvSeries"
-                    ],
-        "version":  3,
-        "internalName":  "SelcukFlix",
-        "description":  "Selcukflix\u0027te her türden en yeni ve en popüler dizi ve filmleri izlemenin keyfini çıkarın. Aksiyondan romantiğe, bilim kurgudan dramaya, geniş kütüphanemizde herkes için bir şey var.",
-        "url":  "https://raw.githubusercontent.com/manitux-app/cs-plugins/main/builds/SelcukFlix.cs3",
-        "name":  "SelcukFlix"
-    },
-    {
-        "iconUrl":  "https://www.google.com/s2/favicons?domain=www.setfilmizle.ltd\u0026sz=%size%",
-        "fileHash":  "sha256-441bb4a936e91970d3433c3eae24ea1fa1d9085c78d0d01afce2f206d5b4f157",
-        "apiVersion":  1,
-        "repositoryUrl":  "https://github.com/manitux-app/cs-plugins",
-        "fileSize":  56860,
+        "fileSize":  66617,
         "status":  3,
         "language":  "tr",
         "authors":  [
@@ -158,6 +158,27 @@
                         "TvSeries"
                     ],
         "version":  4,
+        "internalName":  "SelcukFlix",
+        "description":  "Selcukflix\u0027te her türden en yeni ve en popüler dizi ve filmleri izlemenin keyfini çıkarın. Aksiyondan romantiğe, bilim kurgudan dramaya, geniş kütüphanemizde herkes için bir şey var.",
+        "url":  "https://raw.githubusercontent.com/manitux-app/cs-plugins/main/builds/SelcukFlix.cs3",
+        "name":  "SelcukFlix"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=www.setfilmizle.ltd\u0026sz=%size%",
+        "fileHash":  "sha256-008ccb46e12612caffcc14a579db3720d5f9bc1cce1ee1fdf82517c832c13104",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/manitux-app/cs-plugins",
+        "fileSize":  56873,
+        "status":  3,
+        "language":  "tr",
+        "authors":  [
+                        "manitux"
+                    ],
+        "tvTypes":  [
+                        "Movie",
+                        "TvSeries"
+                    ],
+        "version":  5,
         "internalName":  "SetFilm",
         "description":  "Setfilmizle ile en yeni filmleri ve yabancı dizileri 1080p Full HD kalitesinde, Türkçe dublaj veya altyazılı seçenekleriyle donmadan izleyin. Üyelik gerektirmeden, kesintisiz film keyfi sizi bekliyor.",
         "url":  "https://raw.githubusercontent.com/manitux-app/cs-plugins/main/builds/SetFilm.cs3",
@@ -165,7 +186,7 @@
     },
     {
         "iconUrl":  "https://webdramaturkey2.com/public/static/favicon.webp",
-        "fileHash":  "sha256-7eba7435b6fe1b7d4dedd01cb6bb3a68e37073d2805ad5685e108bccd6231ec4",
+        "fileHash":  "sha256-9f8a53e0c3933f7b4a8c4161aae3906130cc7d50c034deb6c9dc81cf6eacee41",
         "apiVersion":  1,
         "repositoryUrl":  "https://github.com/manitux-app/cs-plugins",
         "fileSize":  58639,
@@ -179,7 +200,7 @@
                         "TvSeries",
                         "Anime"
                     ],
-        "version":  3,
+        "version":  4,
         "internalName":  "WebDramaTurkey",
         "description":  "Kore dizisi izle, çin dizisi izle, japon dizisi izle, kore dizileri izle, kore filmleri, asya dizileri, çin filmleri, japon filmleri, bl dizi izle, asya dizisi izle, web drama izle.",
         "url":  "https://raw.githubusercontent.com/manitux-app/cs-plugins/main/builds/WebDramaTurkey.cs3",
@@ -187,7 +208,7 @@
     },
     {
         "iconUrl":  "https://yesilcamtv.com.tr/wp-content/themes/filmplus/fav.ico",
-        "fileHash":  "sha256-74023b22e3d1d3819d5111316d039bfbf4ca73a6792af04c227ddfa3d19538ab",
+        "fileHash":  "sha256-b5790aab23169f3a4731e2bc1a7ee120048909f058c50f060a31e9700c7b1e09",
         "apiVersion":  1,
         "repositoryUrl":  "https://github.com/manitux-app/cs-plugins",
         "fileSize":  47192,
@@ -199,31 +220,10 @@
         "tvTypes":  [
                         "Movie"
                     ],
-        "version":  3,
+        "version":  4,
         "internalName":  "YesilcamTV",
         "description":  "YESILCAM TV",
         "url":  "https://raw.githubusercontent.com/manitux-app/cs-plugins/main/builds/YesilcamTV.cs3",
         "name":  "YesilcamTV"
-    },
-    {
-        "iconUrl":  "https://www.google.com/s2/favicons?domain=dizipal2130.com\u0026sz=%size%",
-        "fileHash":  "sha256-f1d11bf7db3b590a5257409750e1d1f9fb82bde34c0d9a7c24ab0369888ead3e",
-        "apiVersion":  1,
-        "repositoryUrl":  "https://github.com/manitux-app/cs-plugins",
-        "fileSize":  67409,
-        "status":  3,
-        "language":  "tr",
-        "authors":  [
-                        "manitux"
-                    ],
-        "tvTypes":  [
-                        "TvSeries",
-                        "Movie"
-                    ],
-        "version":  6,
-        "internalName":  "Dizipal",
-        "description":  "Dizipal\u0027de en yeni yabancı dizi, film ve anime yapımlarını keşfedin. Türkçe altyazılı ve dublajlı, Full HD kalitede yüzlerce güncel bölümü reklamsız ve ücretsiz online izleyebilirsiniz.",
-        "url":  "https://raw.githubusercontent.com/manitux-app/cs-plugins/main/builds/Dizipal.cs3",
-        "name":  "Dizipal"
     }
 ]
